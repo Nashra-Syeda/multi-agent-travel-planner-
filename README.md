@@ -1,4 +1,4 @@
-# multi-agent-travel-planner-
+# multi-agent-travel-planner
 
 ## How to run
 
