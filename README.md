@@ -1,6 +1,6 @@
 # multi-agent-travel-planner-
 
-## How to run?? 
+## How to run
 
 1. Creating the virtual enviroment 
 
@@ -26,4 +26,3 @@
 
 
 
-postgresql://trip_agent_ai9w_user:gjycOhvcysCzwDKyOzyft3jVC7EqS14c@dpg-dbcgvsbrjlhs73besl90-a.oregon-postgres.render.com/trip_agent_ai9w
